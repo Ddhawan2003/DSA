@@ -1,18 +1,14 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
         copy = x
-        rev = 0
-        while x > 0:
-            dig = x % 10
-            rev = rev * 10 + dig
-            x = x/10
-        return copy == rev
-
-
-
-
-        
+        rev = ''
+        if x == 0:
+            return True
+        while copy > 0:
+            dig=copy%10
+            rev+=str(dig)
+            copy//=10
+        print(rev)
+        if rev == str(x):
+            return True
+        return False
