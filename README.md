@@ -25,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ddhawan2003/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ddhawan2003/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ddhawan2003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
