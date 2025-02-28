@@ -54,4 +54,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ddhawan2003/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ddhawan2003/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
