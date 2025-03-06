@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ddhawan2003/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
@@ -42,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ddhawan2003/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
