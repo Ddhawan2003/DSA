@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ddhawan2003/DSA/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,10 +47,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ddhawan2003/DSA/tree/master/0155-min-stack) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
