@@ -19,6 +19,7 @@
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ddhawan2003/DSA/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ddhawan2003/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ddhawan2003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/Ddhawan2003/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ddhawan2003/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ddhawan2003/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
 ## Tree
@@ -119,4 +123,9 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
