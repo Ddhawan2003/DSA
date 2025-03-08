@@ -20,6 +20,7 @@
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
+| [1833-find-the-highest-altitude](https://github.com/Ddhawan2003/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ddhawan2003/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Ddhawan2003/DSA/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
