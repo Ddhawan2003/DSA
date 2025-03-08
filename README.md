@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ddhawan2003/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ddhawan2003/DSA/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
