@@ -77,6 +77,7 @@
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ddhawan2003/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -95,6 +97,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -103,6 +106,7 @@
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ddhawan2003/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0226-invert-binary-tree) |
 ## Stack
 |  |
 | ------- |
