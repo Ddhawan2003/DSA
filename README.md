@@ -75,10 +75,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
