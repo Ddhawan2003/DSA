@@ -19,6 +19,7 @@
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Ddhawan2003/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ddhawan2003/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ddhawan2003/DSA/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@
 | [0141-linked-list-cycle](https://github.com/Ddhawan2003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ddhawan2003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ddhawan2003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Ddhawan2003/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Ddhawan2003/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
