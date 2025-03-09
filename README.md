@@ -23,6 +23,7 @@
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ddhawan2003/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ddhawan2003/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@
 | [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ddhawan2003/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ddhawan2003/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
@@ -157,6 +159,7 @@
 | [0141-linked-list-cycle](https://github.com/Ddhawan2003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ddhawan2003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ddhawan2003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ddhawan2003/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ddhawan2003/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
