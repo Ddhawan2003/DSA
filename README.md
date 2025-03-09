@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ddhawan2003/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ddhawan2003/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -149,6 +150,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ddhawan2003/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ddhawan2003/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ddhawan2003/DSA/tree/master/0125-valid-palindrome) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ddhawan2003/DSA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ddhawan2003/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
