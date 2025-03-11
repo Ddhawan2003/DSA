@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ddhawan2003/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Ddhawan2003/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ddhawan2003/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
