@@ -24,6 +24,7 @@
 | [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ddhawan2003/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Ddhawan2003/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -183,6 +184,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -227,4 +229,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ddhawan2003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
