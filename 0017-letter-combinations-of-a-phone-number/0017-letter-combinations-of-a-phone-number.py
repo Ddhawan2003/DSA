@@ -8,14 +8,13 @@ class Solution:
             '6': 'mno', '7': 'pqrs', '8': 'tuv', '9': 'wxyz'
         }
 
-        result = []
+        result = ['']  # Start with an empty string
 
-        def backtrack(index, path):
-            if index == len(digits):
-                result.append(path)
-                return
-            for letter in digit_to_letters[digits[index]]:
-                backtrack(index + 1, path + letter)
+        for digit in digits:
+            temp = []
+            for prefix in result:
+                for letter in digit_to_letters[digit]:
+                    temp.append(prefix + letter)
+            result = temp  # Move to the next digit
 
-        backtrack(0, "")
         return result
