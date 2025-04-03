@@ -23,6 +23,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Ddhawan2003/DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Ddhawan2003/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ddhawan2003/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ddhawan2003/DSA/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
