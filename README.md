@@ -23,6 +23,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ddhawan2003/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
@@ -137,6 +138,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ddhawan2003/DSA/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -171,6 +173,7 @@
 | [0011-container-with-most-water](https://github.com/Ddhawan2003/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ddhawan2003/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ddhawan2003/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ddhawan2003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ddhawan2003/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -248,5 +251,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
