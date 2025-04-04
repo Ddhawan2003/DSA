@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Ddhawan2003/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ddhawan2003/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ddhawan2003/DSA/tree/master/0242-valid-anagram) |
+| [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/Ddhawan2003/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ddhawan2003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0242-valid-anagram](https://github.com/Ddhawan2003/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ddhawan2003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Ddhawan2003/DSA/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ddhawan2003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Ddhawan2003/DSA/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -209,6 +213,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ddhawan2003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -218,6 +223,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ddhawan2003/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
+| [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
