@@ -43,6 +43,7 @@
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Ddhawan2003/DSA/tree/master/0948-sort-an-array) |
+| [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 | [1833-find-the-highest-altitude](https://github.com/Ddhawan2003/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [0146-lru-cache](https://github.com/Ddhawan2003/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ddhawan2003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ddhawan2003/DSA/tree/master/0206-reverse-linked-list) |
+| [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -142,11 +144,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ddhawan2003/DSA/tree/master/0155-min-stack) |
+| [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ddhawan2003/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ddhawan2003/DSA/tree/master/0155-min-stack) |
+| [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 ## Union Find
 |  |
 | ------- |
@@ -251,6 +255,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ddhawan2003/DSA/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,4 +265,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
