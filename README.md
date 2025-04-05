@@ -11,6 +11,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ddhawan2003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Ddhawan2003/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ddhawan2003/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Ddhawan2003/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Ddhawan2003/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ddhawan2003/DSA/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/Ddhawan2003/DSA/tree/master/0778-reorganize-string) |
@@ -28,6 +29,7 @@
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ddhawan2003/DSA/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Ddhawan2003/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ddhawan2003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +117,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ddhawan2003/DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Ddhawan2003/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ddhawan2003/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -164,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ddhawan2003/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ddhawan2003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
@@ -255,6 +259,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ddhawan2003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ddhawan2003/DSA/tree/master/0079-word-search) |
 ## Doubly-Linked List
 |  |
 | ------- |
