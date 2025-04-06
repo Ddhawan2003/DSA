@@ -85,6 +85,7 @@
 | [0007-reverse-integer](https://github.com/Ddhawan2003/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ddhawan2003/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -270,6 +271,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
