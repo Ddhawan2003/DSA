@@ -86,6 +86,7 @@
 | [0002-add-two-numbers](https://github.com/Ddhawan2003/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ddhawan2003/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ddhawan2003/DSA/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Ddhawan2003/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Ddhawan2003/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ddhawan2003/DSA/tree/master/0268-missing-number) |
@@ -275,6 +276,7 @@
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ddhawan2003/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ddhawan2003/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Monotonic Stack
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ddhawan2003/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
