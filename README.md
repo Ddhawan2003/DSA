@@ -47,6 +47,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Ddhawan2003/DSA/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/Ddhawan2003/DSA/tree/master/1036-rotting-oranges) |
 | [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
 | [1833-find-the-highest-altitude](https://github.com/Ddhawan2003/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -141,6 +142,7 @@
 | [0226-invert-binary-tree](https://github.com/Ddhawan2003/DSA/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ddhawan2003/DSA/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0200-number-of-islands](https://github.com/Ddhawan2003/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Ddhawan2003/DSA/tree/master/1036-rotting-oranges) |
 ## Interactive
 |  |
 | ------- |
