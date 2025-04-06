@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ddhawan2003/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Ddhawan2003/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ddhawan2003/DSA/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ddhawan2003/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Ddhawan2003/DSA/tree/master/0948-sort-an-array) |
 | [1582-design-browser-history](https://github.com/Ddhawan2003/DSA/tree/master/1582-design-browser-history) |
@@ -272,6 +273,7 @@
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
