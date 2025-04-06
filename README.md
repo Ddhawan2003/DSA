@@ -26,6 +26,7 @@
 | [0035-search-insert-position](https://github.com/Ddhawan2003/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ddhawan2003/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ddhawan2003/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ddhawan2003/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ddhawan2003/DSA/tree/master/0078-subsets) |
@@ -215,6 +216,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ddhawan2003/DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Ddhawan2003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Ddhawan2003/DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ddhawan2003/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ddhawan2003/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ddhawan2003/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ddhawan2003/DSA/tree/master/0747-min-cost-climbing-stairs) |
