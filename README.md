@@ -298,4 +298,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ddhawan2003/DSA/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Ddhawan2003/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
