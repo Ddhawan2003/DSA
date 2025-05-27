@@ -304,4 +304,5 @@
 | [0176-second-highest-salary](https://github.com/Ddhawan2003/DSA/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ddhawan2003/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Ddhawan2003/DSA/tree/master/0182-duplicate-emails) |
+| [0595-big-countries](https://github.com/Ddhawan2003/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
